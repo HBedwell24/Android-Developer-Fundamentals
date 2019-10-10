@@ -1,4 +1,0 @@
-#Thu Jun 27 11:38:02 EDT 2019
-base.0=C\:\\Users\\bagge\\Downloads\\New folder\\WhoWroteItLoader\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
-path.0=classes.dex
-renamed.0=classes.dex

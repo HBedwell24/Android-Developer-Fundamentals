@@ -1,4 +1,0 @@
-#Thu Oct 10 12:58:55 EDT 2019
-base.0=C\:\\Users\\bagge\\Documents\\Android Developer Fundamentals\\Android Fundamentals 02.3 - Implicit Intents\\ImplicitIntents\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
-path.0=classes.dex
-renamed.0=classes.dex
