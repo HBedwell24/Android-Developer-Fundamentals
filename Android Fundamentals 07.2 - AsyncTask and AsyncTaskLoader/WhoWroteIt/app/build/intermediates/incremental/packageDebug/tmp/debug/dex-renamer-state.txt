@@ -1,0 +1,4 @@
+#Thu Oct 10 13:03:28 EDT 2019
+base.0=C\:\\Users\\bagge\\Documents\\Android Developer Fundamentals\\Android Fundamentals 07.2 - AsyncTask and AsyncTaskLoader\\WhoWroteIt\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
